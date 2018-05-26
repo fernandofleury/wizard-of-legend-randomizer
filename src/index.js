@@ -1,17 +1,13 @@
 import './styles/reset.css';
 import './styles/main.css';
 
-import { compose, map, values, join } from 'ramda';
-import getTemplate from './getArcanaTemplate';
-import getRandomArcanas from './getRandomArcanas';
-import render from './render';
-
-const renderArcanas = compose(join(''), values, map(getTemplate));
+import renderArcanas from './renderArcanas';
 
 (() => {
-  const container = document.querySelector('.selection');
-  const arcanas = renderArcanas(getRandomArcanas());
+  const shuffleButton = document.querySelector('[data-button="shuffle"]');
 
-  render(container, arcanas);
+  shuffleButton.addEventListener('click', renderArcanas);
+
+  renderArcanas();
 })()
 

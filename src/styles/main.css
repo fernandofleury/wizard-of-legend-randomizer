@@ -38,7 +38,8 @@ body {
 
 .selection {
   display: flex;
-  margin-top: 60px;
+  flex-wrap: wrap;
+  margin-top: 40px;
   padding: 20px;
   justify-content: center;
 }
@@ -49,7 +50,7 @@ body {
   border: 10px solid #d5cdb7;
   border-radius: 4px;
   height: 290px;
-  margin: 0 30px;
+  margin: 0 30px 20px 30px;
   padding: 30px;
   position: relative;
   width: 220px;
@@ -109,4 +110,23 @@ body {
 .item-image {
   width: 95px;
   z-index: 2;
+}
+
+.btn {
+  border: 0;
+  color: white;
+  cursor: pointer;
+  font-family: inherit;
+  font-size: 20px;
+  padding: 10px 20px;
+}
+
+[data-button="shuffle"] {
+  background-color: #52bb52;
+  box-shadow: 0 5px 0 #3f963f;
+}
+
+[data-button="copy"] {
+  background-color: #2196f3;
+  box-shadow: 0 5px 0 #2583ce;
 }
