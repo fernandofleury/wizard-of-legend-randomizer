@@ -1,12 +1,27 @@
 const puppeteer = require('puppeteer');
 const fs = require('fs');
 
+const parseInitialTable = ({ basic, dash, standard, signature }) => ({
+  basic,
+  dash,
+  standard: [
+    ...standard,
+    signature.map(({ id, name, imageUrl }) => ({
+      id,
+      name,
+      imageUrl,
+      type: 'standard'
+    }))
+  ],
+  signature
+});
+
 (async () => {
   const browser = await puppeteer.launch();
   const page = await browser.newPage();
   await page.goto('https://wizardoflegend.gamepedia.com/Arcana');
 
-  const arcanasTable = await page.evaluate(() =>
+  const initialTable = await page.evaluate(() =>
     Array.from(
       document.querySelectorAll('.cargo-arcana-table tbody tr')
     ).reduce(
@@ -19,8 +34,9 @@ const fs = require('fs');
           ...data[type.innerText.toLowerCase()],
           {
             id: data[type.innerText.toLowerCase()].length,
-            imageUrl: img.querySelector('img').src,
-            name: name.innerText
+            imageUrl: img.querySelector('img').src.replace('20', '128'),
+            name: name.innerText,
+            type: type.innerText.toLowerCase()
           }
         ];
 
@@ -30,7 +46,12 @@ const fs = require('fs');
     )
   );
 
-  fs.writeFileSync('./fixtures/data.json', JSON.stringify(arcanasTable, null, 2));
+  const parsedTable = parseInitialTable(initialTable);
+
+  fs.writeFileSync(
+    './fixtures/arcanas.json',
+    JSON.stringify(parsedTable, null, 2)
+  );
 
   await browser.close();
 })();
