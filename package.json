@@ -23,7 +23,9 @@
     "webpack-merge": "^4.1.2"
   },
   "dependencies": {
+    "clipboard": "^2.0.1",
     "copy-webpack-plugin": "^4.5.1",
+    "left-pad": "^1.3.0",
     "ramda": "^0.25.0"
   }
 }

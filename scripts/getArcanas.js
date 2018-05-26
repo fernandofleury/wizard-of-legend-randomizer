@@ -6,8 +6,8 @@ const parseInitialTable = ({ basic, dash, standard, signature }) => ({
   dash,
   standard: [
     ...standard,
-    signature.map(({ id, name, imageUrl }) => ({
-      id,
+    ...signature.map(({ id, name, imageUrl }) => ({
+      id: standard.length + id,
       name,
       imageUrl,
       type: 'standard'
@@ -45,6 +45,9 @@ const parseInitialTable = ({ basic, dash, standard, signature }) => ({
       { basic: [], dash: [], standard: [], signature: [] }
     )
   );
+
+  console.log(initialTable.standard.length);
+  console.log(initialTable.signature.length);
 
   const parsedTable = parseInitialTable(initialTable);
 
