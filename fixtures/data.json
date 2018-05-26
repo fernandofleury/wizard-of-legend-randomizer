@@ -1,0 +1,650 @@
+{
+  "basic": [
+    {
+      "id": 0,
+      "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/thumb/a/a2/Air_Spinner.png/20px-Air_Spinner.png?version=06d2a0a17d93442c530f4d5b370113a6",
+      "name": "Air Spinner"
+    },
+    {
+      "id": 1,
+      "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/thumb/6/6d/Wind_Slash.png/20px-Wind_Slash.png?version=6bdab2f41c0744b6179e01cc8036839b",
+      "name": "Wind Slash"
+    },
+    {
+      "id": 2,
+      "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/thumb/d/d4/Chaos_Crusher.png/20px-Chaos_Crusher.png?version=2c7cfcff19967df46fe85f3c950c9673",
+      "name": "Chaos Crusher"
+    },
+    {
+      "id": 3,
+      "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/thumb/4/4a/Earth_Knuckles.png/20px-Earth_Knuckles.png?version=f65986c4f1af27a7e9455edc4dc56a98",
+      "name": "Earth Knuckles"
+    },
+    {
+      "id": 4,
+      "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/thumb/4/4b/Stone_Shot.png/20px-Stone_Shot.png?version=6d017c3fe2648a2907906dbf0aa00b4a",
+      "name": "Stone Shot"
+    },
+    {
+      "id": 5,
+      "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/thumb/4/45/Bouncing_Blaze.png/20px-Bouncing_Blaze.png?version=339f2f687c291f0f05a1dda2e9124a91",
+      "name": "Bouncing Blaze"
+    },
+    {
+      "id": 6,
+      "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/thumb/e/e5/Flame_Strike.png/20px-Flame_Strike.png?version=e5c8cde6911c7787695a6766f8d186ca",
+      "name": "Flame Strike"
+    },
+    {
+      "id": 7,
+      "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/thumb/0/09/Bolt_Rail.png/20px-Bolt_Rail.png?version=30b230adbb7569fea6589b553fe57793",
+      "name": "Bolt Rail"
+    },
+    {
+      "id": 8,
+      "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/thumb/5/5c/Spark_Contact.png/20px-Spark_Contact.png?version=cbbfcaa2d31b7de3f52dd5a7b71e28f0",
+      "name": "Spark Contact"
+    },
+    {
+      "id": 9,
+      "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/thumb/f/f8/Aqua_Arc.png/20px-Aqua_Arc.png?version=1546f03a098ebfa2adde36e4430d3646",
+      "name": "Aqua Arc"
+    },
+    {
+      "id": 10,
+      "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/thumb/0/03/Ice_Dagger.png/20px-Ice_Dagger.png?version=55ff06f5c35d60668a8b42648ca4fcef",
+      "name": "Ice Dagger"
+    }
+  ],
+  "dash": [
+    {
+      "id": 0,
+      "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/thumb/8/89/Air_Burst.png/20px-Air_Burst.png?version=8b69c7cf902f64857fb748073e8f2d47",
+      "name": "Air Burst"
+    },
+    {
+      "id": 1,
+      "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/thumb/3/34/Gust_Burst.png/20px-Gust_Burst.png?version=934cb22a88750de2eab640a86eb9befe",
+      "name": "Gust Burst"
+    },
+    {
+      "id": 2,
+      "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/thumb/0/0c/Chaotic_Rift.png/20px-Chaotic_Rift.png?version=a2e6a010d61471cbe9d82dd1c0696f87",
+      "name": "Chaotic Rift"
+    },
+    {
+      "id": 3,
+      "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/thumb/8/89/Spike_Track.png/20px-Spike_Track.png?version=b5e256f68ad539b426e7b588994a69ae",
+      "name": "Spike Track"
+    },
+    {
+      "id": 4,
+      "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/thumb/e/ec/Toxic_Trap.png/20px-Toxic_Trap.png?version=53a3ebe56d80d3d5541139f9f5682632",
+      "name": "Toxic Trap"
+    },
+    {
+      "id": 5,
+      "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/thumb/9/90/Flare_Rush.png/20px-Flare_Rush.png?version=1165a9369ceb26c30ec5209a91091232",
+      "name": "Flare Rush"
+    },
+    {
+      "id": 6,
+      "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/thumb/c/cd/Searing_Rush.png/20px-Searing_Rush.png?version=58b1c9f8a403febb8c31cd29d989ad94",
+      "name": "Searing Rush"
+    },
+    {
+      "id": 7,
+      "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/thumb/e/e7/Circuit_Line.png/20px-Circuit_Line.png?version=ee2389c60feeaf445ab781d39fc657e1",
+      "name": "Circuit Line"
+    },
+    {
+      "id": 8,
+      "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/thumb/c/c6/Shock_Line.png/20px-Shock_Line.png?version=0e089200a91146a6d5ae38bc83e7946e",
+      "name": "Shock Line"
+    },
+    {
+      "id": 9,
+      "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/thumb/f/fc/Frost_Feint.png/20px-Frost_Feint.png?version=437b01a1b65f0c21c5a54c9ad88a2eb3",
+      "name": "Frost Feint"
+    },
+    {
+      "id": 10,
+      "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/thumb/c/ca/Wave_Front.png/20px-Wave_Front.png?version=792eb2e1871ce667fb080ce81f88a58e",
+      "name": "Wave Front"
+    }
+  ],
+  "standard": [
+    {
+      "id": 0,
+      "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/thumb/4/42/Airborne_Slam.png/20px-Airborne_Slam.png?version=21610bc4a74e22da3544718763e68621",
+      "name": "Airborne Slam"
+    },
+    {
+      "id": 1,
+      "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/thumb/f/f1/Breaking_Twister.png/20px-Breaking_Twister.png?version=bcba04cac26f4e20c219f2697e83f750",
+      "name": "Breaking Twister"
+    },
+    {
+      "id": 2,
+      "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/thumb/3/3e/Dragon_Blast.png/20px-Dragon_Blast.png?version=7d3bb171fbee067300620cebd4293101",
+      "name": "Dragon Blast"
+    },
+    {
+      "id": 3,
+      "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/thumb/9/93/Evading_Zephyr.png/20px-Evading_Zephyr.png?version=73bd81e00cdcbe03547f8bb7f90e448d",
+      "name": "Evading Zephyr"
+    },
+    {
+      "id": 4,
+      "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/thumb/d/d5/Furious_Tempest.png/20px-Furious_Tempest.png?version=1a3815a7c4b62528f20d18fba6a88c17",
+      "name": "Furious Tempest"
+    },
+    {
+      "id": 5,
+      "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/thumb/e/e0/Gust_Volley.png/20px-Gust_Volley.png?version=129f1588b273261451999ff75e812e4b",
+      "name": "Gust Volley"
+    },
+    {
+      "id": 6,
+      "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/thumb/a/a8/Heroic_Leap.png/20px-Heroic_Leap.png?version=ab17196a05e9c5706092b6fe07880640",
+      "name": "Heroic Leap"
+    },
+    {
+      "id": 7,
+      "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/thumb/2/2f/Mach_Stunner.png/20px-Mach_Stunner.png?version=2673af0cfbead04c969eed8bb050c1db",
+      "name": "Mach Stunner"
+    },
+    {
+      "id": 8,
+      "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/thumb/9/91/Mentis_Imperium.png/20px-Mentis_Imperium.png?version=9c08f9f1a3210fa16565b4b487da4d38",
+      "name": "Mentis Imperium"
+    },
+    {
+      "id": 9,
+      "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/thumb/c/c3/Rushing_Typhoon.png/20px-Rushing_Typhoon.png?version=104d36113c4ab33cfd34cc18dc8d4356",
+      "name": "Rushing Typhoon"
+    },
+    {
+      "id": 10,
+      "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/thumb/d/d4/Scales_of_Babylon.png/20px-Scales_of_Babylon.png?version=611910d4496d04f18f662030c45fd0fd",
+      "name": "Scales of Babylon"
+    },
+    {
+      "id": 11,
+      "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/thumb/8/88/Shearing_Chain.png/20px-Shearing_Chain.png?version=954e022e290d3cfc27470319790626a9",
+      "name": "Shearing Chain"
+    },
+    {
+      "id": 12,
+      "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/thumb/9/93/Tearing_Whirlwind.png/20px-Tearing_Whirlwind.png?version=65cd613058faf62b3c6cf56c592b7a31",
+      "name": "Tearing Whirlwind"
+    },
+    {
+      "id": 13,
+      "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/thumb/8/85/Ward_of_Winds.png/20px-Ward_of_Winds.png?version=bae148e21ee68070f565adeebe647e47",
+      "name": "Ward of Winds"
+    },
+    {
+      "id": 14,
+      "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/thumb/c/cb/Whirling_Wind_Agent.png/20px-Whirling_Wind_Agent.png?version=ba7022946ef45af69eef8445ae1da072",
+      "name": "Whirling Wind Agent"
+    },
+    {
+      "id": 15,
+      "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/thumb/2/2b/Wind_Flurry.png/20px-Wind_Flurry.png?version=a9bb8fdf9f3de5734a8286a5eccc97a1",
+      "name": "Wind Flurry"
+    },
+    {
+      "id": 16,
+      "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/thumb/d/d0/Aegis_Charge.png/20px-Aegis_Charge.png?version=237009d0188e7ebd686092c947b9f25a",
+      "name": "Aegis Charge"
+    },
+    {
+      "id": 17,
+      "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/thumb/9/93/Dragon_Dive.png/20px-Dragon_Dive.png?version=0a59f0c2f80e4b0c9497999f3f26a468",
+      "name": "Dragon Dive"
+    },
+    {
+      "id": 18,
+      "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/thumb/f/f5/Earth_Stomp_Agent.png/20px-Earth_Stomp_Agent.png?version=6c98a3eb87c83df18dca714b926e2770",
+      "name": "Earth Stomp Agent"
+    },
+    {
+      "id": 19,
+      "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/thumb/1/16/Earthen_Aegis.png/20px-Earthen_Aegis.png?version=b9abd218b7bf1686f1335111981bab81",
+      "name": "Earthen Aegis"
+    },
+    {
+      "id": 20,
+      "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/thumb/6/6e/Earthquake_Axe.png/20px-Earthquake_Axe.png?version=0d20aeceb3eff3268ccb31d61fe658b4",
+      "name": "Earthquake Axe"
+    },
+    {
+      "id": 21,
+      "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/thumb/4/49/Embracing_Vines.png/20px-Embracing_Vines.png?version=77f897dca50c6d6dc7c05c7ae0ce8091",
+      "name": "Embracing Vines"
+    },
+    {
+      "id": 22,
+      "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/thumb/b/bc/Fadeaway_Rhythm.png/20px-Fadeaway_Rhythm.png?version=14b7248fdc8aad33ac566b3ca7bf35bc",
+      "name": "Fadeaway Rhythm"
+    },
+    {
+      "id": 23,
+      "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/thumb/c/c2/Grasping_Earth.png/20px-Grasping_Earth.png?version=a9a89b403f74d0127e56b2f95c052e6f",
+      "name": "Grasping Earth"
+    },
+    {
+      "id": 24,
+      "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/thumb/d/d8/Knockout_Boulder.png/20px-Knockout_Boulder.png?version=67d972f1602c3d6d574da0f482ecc6e9",
+      "name": "Knockout Boulder"
+    },
+    {
+      "id": 25,
+      "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/thumb/8/8b/Magnetic_Follow-up.png/20px-Magnetic_Follow-up.png?version=629b13b91597c67aa81943664c232924",
+      "name": "Magnetic Follow-up"
+    },
+    {
+      "id": 26,
+      "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/thumb/4/46/Rippling_Rupture.png/20px-Rippling_Rupture.png?version=a3f8c77824ed8567bee4c45d76a2e625",
+      "name": "Rippling Rupture"
+    },
+    {
+      "id": 27,
+      "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/thumb/f/fa/Seismic_Entry.png/20px-Seismic_Entry.png?version=733bbe44b933d959844df8f12e7cca33",
+      "name": "Seismic Entry"
+    },
+    {
+      "id": 28,
+      "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/thumb/c/cf/Stalwart_Defenders.png/20px-Stalwart_Defenders.png?version=cd4304abba420dfa451c27d973c5566f",
+      "name": "Stalwart Defenders"
+    },
+    {
+      "id": 29,
+      "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/thumb/b/b4/Tectonic_Drill.png/20px-Tectonic_Drill.png?version=75108d7db9c073d2ebca67204a18615b",
+      "name": "Tectonic Drill"
+    },
+    {
+      "id": 30,
+      "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/thumb/9/92/Toxic_Bolas.png/20px-Toxic_Bolas.png?version=552fbdb8c0009a5cb8f36a315bb5e160",
+      "name": "Toxic Bolas"
+    },
+    {
+      "id": 31,
+      "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/thumb/0/0f/Ward_of_Stones.png/20px-Ward_of_Stones.png?version=c3be991ddd1caf93d9bc6a3d81b4181a",
+      "name": "Ward of Stones"
+    },
+    {
+      "id": 32,
+      "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/thumb/1/10/Blazing_Blitz.png/20px-Blazing_Blitz.png?version=010c66f684603ba6e956dad2cdc2f3ea",
+      "name": "Blazing Blitz"
+    },
+    {
+      "id": 33,
+      "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/thumb/8/80/Blazing_Onslaught.png/20px-Blazing_Onslaught.png?version=9577dd683ac79c875ab667169de0d690",
+      "name": "Blazing Onslaught"
+    },
+    {
+      "id": 34,
+      "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/thumb/1/12/Blazing_Vault.png/20px-Blazing_Vault.png?version=031b61d3a2a2809c1bf0f3e8df4b9448",
+      "name": "Blazing Vault"
+    },
+    {
+      "id": 35,
+      "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/thumb/7/7a/Crashing_Meteor.png/20px-Crashing_Meteor.png?version=1b4bbf9f393cf2946b467666e1031878",
+      "name": "Crashing Meteor"
+    },
+    {
+      "id": 36,
+      "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/thumb/5/5a/Dragon_Arc.png/20px-Dragon_Arc.png?version=7db25f618b1a971de8d46350ea000d3f",
+      "name": "Dragon Arc"
+    },
+    {
+      "id": 37,
+      "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/thumb/1/1d/Explosive_Charge.png/20px-Explosive_Charge.png?version=56e0b677f508a01c9ae7f405fd92fc48",
+      "name": "Explosive Charge"
+    },
+    {
+      "id": 38,
+      "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/thumb/8/8b/Fire_Wall.png/20px-Fire_Wall.png?version=029bedbd8402542e2c224de3e4824c9c",
+      "name": "Fire Wall"
+    },
+    {
+      "id": 39,
+      "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/thumb/8/8a/Flame_Cleaver.png/20px-Flame_Cleaver.png?version=34d4e171e764f496a69d3cba7d321851",
+      "name": "Flame Cleaver"
+    },
+    {
+      "id": 40,
+      "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/thumb/6/64/Flame_Fusion.png/20px-Flame_Fusion.png?version=12834bcd6791ae5dfa4e5c571f931692",
+      "name": "Flame Fusion"
+    },
+    {
+      "id": 41,
+      "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/thumb/9/94/Fuelled_Berserk.png/20px-Fuelled_Berserk.png?version=80ac7ed028ad2174012e97b7d22ae318",
+      "name": "Fuelled Berserk"
+    },
+    {
+      "id": 42,
+      "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/thumb/2/22/Homing_Flares.png/20px-Homing_Flares.png?version=323a9c05743b5ca947a8d807a78e02f2",
+      "name": "Homing Flares"
+    },
+    {
+      "id": 43,
+      "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/thumb/1/14/Ignition_Drive.png/20px-Ignition_Drive.png?version=521a321b76f9f1f4018e34663261c14a",
+      "name": "Ignition Drive"
+    },
+    {
+      "id": 44,
+      "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/thumb/1/11/Raging_Inferno.png/20px-Raging_Inferno.png?version=303c12e66bc07f9af8312bb7a150aa9a",
+      "name": "Raging Inferno"
+    },
+    {
+      "id": 45,
+      "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/thumb/8/89/Rapid_Fire_Agent.png/20px-Rapid_Fire_Agent.png?version=9d8d700e92a9f5bb8555240144425ed0",
+      "name": "Rapid Fire Agent"
+    },
+    {
+      "id": 46,
+      "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/thumb/2/22/Searing_Crown.png/20px-Searing_Crown.png?version=3dd683d636eb99dbffe5b66d0bdee11c",
+      "name": "Searing Crown"
+    },
+    {
+      "id": 47,
+      "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/thumb/1/1d/Ward_of_Flames.png/20px-Ward_of_Flames.png?version=c7368fd6eb5f94f12ed22d25792e5f80",
+      "name": "Ward of Flames"
+    },
+    {
+      "id": 48,
+      "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/thumb/e/e3/Arc_Sphere.png/20px-Arc_Sphere.png?version=8690fcd0a3f3af622a4b2d67eaccca6f",
+      "name": "Arc Sphere"
+    },
+    {
+      "id": 49,
+      "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/thumb/f/f2/Bolt_Claymore.png/20px-Bolt_Claymore.png?version=4e3d2967d870042d327f10d7d9248be2",
+      "name": "Bolt Claymore"
+    },
+    {
+      "id": 50,
+      "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/thumb/6/65/Bouncing_Surge.png/20px-Bouncing_Surge.png?version=afde81021f4ad48188bb797e38a3b8bd",
+      "name": "Bouncing Surge"
+    },
+    {
+      "id": 51,
+      "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/thumb/f/fa/Deferred_Dynamo.png/20px-Deferred_Dynamo.png?version=52ef936603884b28926ea11b3590198a",
+      "name": "Deferred Dynamo"
+    },
+    {
+      "id": 52,
+      "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/thumb/9/96/Ion_Spike.png/20px-Ion_Spike.png?version=a83a1a0e1e6d9506cfc14a0121d26a87",
+      "name": "Ion Spike"
+    },
+    {
+      "id": 53,
+      "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/thumb/9/92/Lightning_Aspect.png/20px-Lightning_Aspect.png?version=337894359335572fc8289a791d5b7e7e",
+      "name": "Lightning Aspect"
+    },
+    {
+      "id": 54,
+      "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/thumb/e/e0/Line_Shock_Agent.png/20px-Line_Shock_Agent.png?version=68ee7fae29c22cf01cac92d7b31afa8e",
+      "name": "Line Shock Agent"
+    },
+    {
+      "id": 55,
+      "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/thumb/2/27/Magsphere.png/20px-Magsphere.png?version=e860a8bd6fb106103fe8f492ce8ae765",
+      "name": "Magsphere"
+    },
+    {
+      "id": 56,
+      "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/thumb/f/f6/Shock_Wire.png/20px-Shock_Wire.png?version=d2f8b3b025d2c587f13f54e045c2f780",
+      "name": "Shock Wire"
+    },
+    {
+      "id": 57,
+      "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/thumb/3/30/Spark_Array.png/20px-Spark_Array.png?version=6bf7652cc7b49d9bbf50e868609448c6",
+      "name": "Spark Array"
+    },
+    {
+      "id": 58,
+      "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/thumb/c/cc/Star_Bolt.png/20px-Star_Bolt.png?version=dead45c91a8b47a1b2d5036776073794",
+      "name": "Star Bolt"
+    },
+    {
+      "id": 59,
+      "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/thumb/7/70/Surge_Anchor.png/20px-Surge_Anchor.png?version=2b72cdedffae2aec3b2af0687b4b695b",
+      "name": "Surge Anchor"
+    },
+    {
+      "id": 60,
+      "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/thumb/9/90/Thunder_Drop.png/20px-Thunder_Drop.png?version=764f571ee3945e18f016a96795ba78f3",
+      "name": "Thunder Drop"
+    },
+    {
+      "id": 61,
+      "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/thumb/1/1b/Thundering_Chain.png/20px-Thundering_Chain.png?version=8bb0a7d6b9dbe5fd7fd504f076a7114a",
+      "name": "Thundering Chain"
+    },
+    {
+      "id": 62,
+      "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/thumb/e/e8/Voltaic_Needle.png/20px-Voltaic_Needle.png?version=95e026cca2079cd729585a3f21af9519",
+      "name": "Voltaic Needle"
+    },
+    {
+      "id": 63,
+      "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/thumb/c/cb/Ward_of_Lightning.png/20px-Ward_of_Lightning.png?version=3f285cc2b31559bd5e663eb1ced3c0f1",
+      "name": "Ward of Lightning"
+    },
+    {
+      "id": 64,
+      "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/thumb/e/eb/Aqua_Beam.png/20px-Aqua_Beam.png?version=5a31fd713d03415d9cb1f5363fde97fc",
+      "name": "Aqua Beam"
+    },
+    {
+      "id": 65,
+      "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/thumb/3/30/Aqua_Breaker.png/20px-Aqua_Breaker.png?version=d4716d6c24e913a297c006ecac707fd7",
+      "name": "Aqua Breaker"
+    },
+    {
+      "id": 66,
+      "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/thumb/9/94/Aqua_Vortex.png/20px-Aqua_Vortex.png?version=e7c4b289bbc5780d78271fef544b7722",
+      "name": "Aqua Vortex"
+    },
+    {
+      "id": 67,
+      "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/thumb/6/62/Binary_Splashdown.png/20px-Binary_Splashdown.png?version=c6f48d9a170861f47f4da007506af9fd",
+      "name": "Binary Splashdown"
+    },
+    {
+      "id": 68,
+      "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/thumb/d/d2/Bouncing_Bubble.png/20px-Bouncing_Bubble.png?version=53a2e5129d344f69deb2905932549eb0",
+      "name": "Bouncing Bubble"
+    },
+    {
+      "id": 69,
+      "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/thumb/8/8e/Bubble_Barrage.png/20px-Bubble_Barrage.png?version=f9118d776155b1bada5d5d0136671b84",
+      "name": "Bubble Barrage"
+    },
+    {
+      "id": 70,
+      "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/thumb/e/e3/Cardice_Prime.png/20px-Cardice_Prime.png?version=1d74c69bed88c7046db990604bec1e39",
+      "name": "Cardice Prime"
+    },
+    {
+      "id": 71,
+      "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/thumb/c/c4/Creeping_Tendrils.png/20px-Creeping_Tendrils.png?version=a8a3350f20f9436e1dc3fd1f629c31d6",
+      "name": "Creeping Tendrils"
+    },
+    {
+      "id": 72,
+      "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/thumb/0/03/Frozen_Bait.png/20px-Frozen_Bait.png?version=ba86144c7d89eb9ac6ba34e01a9aa9bb",
+      "name": "Frozen Bait"
+    },
+    {
+      "id": 73,
+      "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/thumb/a/af/Ice_Seekers.png/20px-Ice_Seekers.png?version=692d8dabe680f46c219f1a30d6da1407",
+      "name": "Ice Seekers"
+    },
+    {
+      "id": 74,
+      "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/thumb/e/e4/Ice_Spear.png/20px-Ice_Spear.png?version=b605ede129f33d5d84ab924daad1b414",
+      "name": "Ice Spear"
+    },
+    {
+      "id": 75,
+      "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/thumb/5/5e/Perfect_Storm.png/20px-Perfect_Storm.png?version=3d775838486a3c946293e0cd6209d2c7",
+      "name": "Perfect Storm"
+    },
+    {
+      "id": 76,
+      "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/thumb/f/fc/Tidal_Blast.png/20px-Tidal_Blast.png?version=8c0dcc12a30a65268bb005f739cc479b",
+      "name": "Tidal Blast"
+    },
+    {
+      "id": 77,
+      "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/thumb/8/80/Ward_of_Frost.png/20px-Ward_of_Frost.png?version=5ed31a1e157a48abc53e86074042653f",
+      "name": "Ward of Frost"
+    },
+    {
+      "id": 78,
+      "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/thumb/5/50/Water_Prison.png/20px-Water_Prison.png?version=83300a23b28c1e408f4577f8576b58bc",
+      "name": "Water Prison"
+    },
+    {
+      "id": 79,
+      "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/thumb/4/4d/Water_Pulse_Agent.png/20px-Water_Pulse_Agent.png?version=49a2886d5df64f13778a670b8809b5f9",
+      "name": "Water Pulse Agent"
+    }
+  ],
+  "signature": [
+    {
+      "id": 0,
+      "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/thumb/d/df/Cyclone_Boomerang.png/20px-Cyclone_Boomerang.png?version=c067ebe711abae1b7f969b1feff91de8",
+      "name": "Cyclone Boomerang"
+    },
+    {
+      "id": 1,
+      "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/thumb/a/a2/Spiraling_Typhoon.png/20px-Spiraling_Typhoon.png?version=4674077da2f6a43698c2c571080d8cc3",
+      "name": "Spiraling Typhoon"
+    },
+    {
+      "id": 2,
+      "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/thumb/5/59/Storm_Draft.png/20px-Storm_Draft.png?version=3be2731458cf29d1fee1471f86f2b1a1",
+      "name": "Storm Draft"
+    },
+    {
+      "id": 3,
+      "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/thumb/4/48/Whirling_Tornado.png/20px-Whirling_Tornado.png?version=9278e799e39168cd10864260061ccdca",
+      "name": "Whirling Tornado"
+    },
+    {
+      "id": 4,
+      "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/thumb/0/03/Absolute_Finale.png/20px-Absolute_Finale.png?version=294f370be031a19c8ffd1daebba215ee",
+      "name": "Absolute Finale"
+    },
+    {
+      "id": 5,
+      "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/thumb/b/b5/Arcane_Intervention.png/20px-Arcane_Intervention.png?version=9f4b587e8397ae76c0eee4f5fde9ee43",
+      "name": "Arcane Intervention"
+    },
+    {
+      "id": 6,
+      "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/thumb/6/6f/Distortion_Beam.png/20px-Distortion_Beam.png?version=1f9b0ef602e7b46e83f805c73a503d79",
+      "name": "Distortion Beam"
+    },
+    {
+      "id": 7,
+      "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/thumb/4/41/Mortal_Coil.png/20px-Mortal_Coil.png?version=4b730c14fb9dcfaa7eabfd3994e56441",
+      "name": "Mortal Coil"
+    },
+    {
+      "id": 8,
+      "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/thumb/8/83/Null_Parade.png/20px-Null_Parade.png?version=3a5b323561bdf86bbe7ed3b019e72cbb",
+      "name": "Null Parade"
+    },
+    {
+      "id": 9,
+      "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/thumb/3/3d/Phantom_Brigade.png/20px-Phantom_Brigade.png?version=3506bfa1b3a849fb7b34a94cf97769eb",
+      "name": "Phantom Brigade"
+    },
+    {
+      "id": 10,
+      "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/thumb/8/8d/Obsidian_Cascade.png/20px-Obsidian_Cascade.png?version=f724b4471c4c060bbd64565aa7875f9f",
+      "name": "Obsidian Cascade"
+    },
+    {
+      "id": 11,
+      "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/thumb/1/16/Rock_n%27_Roll.png/20px-Rock_n%27_Roll.png?version=543b01f082eaf45f3953c7b10021bcb8",
+      "name": "Rock n' Roll"
+    },
+    {
+      "id": 12,
+      "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/thumb/6/6b/Shattering_Strike.png/20px-Shattering_Strike.png?version=d57c59ce055b56535c15213524eb812d",
+      "name": "Shattering Strike"
+    },
+    {
+      "id": 13,
+      "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/thumb/d/df/Terra_Ring.png/20px-Terra_Ring.png?version=1bc17d8d11895c505d878c585f33bcd4",
+      "name": "Terra Ring"
+    },
+    {
+      "id": 14,
+      "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/thumb/8/81/Blazing_Lariat.png/20px-Blazing_Lariat.png?version=6f1869d620d2eb27bdaaa9d83ac8dffb",
+      "name": "Blazing Lariat"
+    },
+    {
+      "id": 15,
+      "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/thumb/8/8c/Exploding_Fireball.png/20px-Exploding_Fireball.png?version=0d163678f3e1741735b754b677f52124",
+      "name": "Exploding Fireball"
+    },
+    {
+      "id": 16,
+      "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/thumb/f/f2/Flame_Breath.png/20px-Flame_Breath.png?version=81320eaa1148ba31544148fd6486c3ac",
+      "name": "Flame Breath"
+    },
+    {
+      "id": 17,
+      "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/thumb/c/cd/Tracer_Barrage.png/20px-Tracer_Barrage.png?version=f8b4a29aa22842f890a0331bd8855029",
+      "name": "Tracer Barrage"
+    },
+    {
+      "id": 18,
+      "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/thumb/d/d7/Ball_Lightning.png/20px-Ball_Lightning.png?version=46d550f2fa3b81bdc73301646dfe2b33",
+      "name": "Ball Lightning"
+    },
+    {
+      "id": 19,
+      "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/thumb/5/54/Shock_Assault.png/20px-Shock_Assault.png?version=7f88a8f8b41821e5bbaa4d5297e02570",
+      "name": "Shock Assault"
+    },
+    {
+      "id": 20,
+      "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/thumb/3/31/Shock_Nova.png/20px-Shock_Nova.png?version=06b598197365fafc709904f241e81e5a",
+      "name": "Shock Nova"
+    },
+    {
+      "id": 21,
+      "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/thumb/a/aa/Volt_Pinball.png/20px-Volt_Pinball.png?version=63ff50dc52002f03d333acf051325f20",
+      "name": "Volt Pinball"
+    },
+    {
+      "id": 22,
+      "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/thumb/2/26/Frost_Fan.png/20px-Frost_Fan.png?version=338d27311030f5d38ace213c0a65085d",
+      "name": "Frost Fan"
+    },
+    {
+      "id": 23,
+      "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/thumb/b/bd/Glacial_Cross.png/20px-Glacial_Cross.png?version=6d8900c0fc8caa6d8ddade322fedb764",
+      "name": "Glacial Cross"
+    },
+    {
+      "id": 24,
+      "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/thumb/6/60/Rebounding_Icicles.png/20px-Rebounding_Icicles.png?version=1470ef33df3abbde45a03b0f8f36ee5b",
+      "name": "Rebounding Icicles"
+    },
+    {
+      "id": 25,
+      "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/thumb/1/14/Snowflake_Chakrams.png/20px-Snowflake_Chakrams.png?version=ccadcad678a37426839912a6f76938cc",
+      "name": "Snowflake Chakrams"
+    }
+  ]
+}
