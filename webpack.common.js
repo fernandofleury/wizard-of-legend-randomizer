@@ -14,6 +14,10 @@ module.exports = {
     new HtmlWebpackPlugin({
       template: 'assets/index.html'
     }),
+    new HtmlWebpackPlugin({
+      filename: '404.html',
+      template: 'assets/404.html'
+    }),
     new MiniCssExtractPlugin({
       filename: '[name].css',
       chunkFilename: '[id].css'
@@ -30,8 +34,19 @@ module.exports = {
       {
         test: /\.css$/,
         use: [MiniCssExtractPlugin.loader, 'css-loader']
+      },
+      {
+        test: /\.js$/,
+        exclude: /(node_modules)/,
+        use: {
+          loader: 'babel-loader',
+          options: {
+            presets: ['@babel/preset-env'],
+            plugins: ["@babel/plugin-proposal-object-rest-spread"]
+          }
+        }
       }
-    ]
+    ],
   },
   output: {
     filename: '[name].bundle.js',
