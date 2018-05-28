@@ -4,9 +4,20 @@ import shuffle from '../helpers/shuffle';
 
 const getRandom = compose(head, shuffle);
 
-export default () => ({
-  basic: getRandom(arcanas.basic),
-  dash: getRandom(arcanas.dash),
-  standard: getRandom(arcanas.standard),
-  signature: getRandom(arcanas.signature)
-});
+export default () => {
+  const basic = getRandom(arcanas.basic);
+  const dash = getRandom(arcanas.dash);
+  const signature = getRandom(arcanas.signature);
+  let standard = getRandom(arcanas.standard);
+
+  if (standard.name === signature.name) {
+    standard = getRandom(arcanas.standard);
+  }
+
+  return {
+    basic,
+    dash,
+    standard,
+    signature
+  };
+};
