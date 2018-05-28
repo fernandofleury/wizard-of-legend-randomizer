@@ -34,7 +34,10 @@ const parseInitialTable = ({ basic, dash, standard, signature }) => ({
           ...data[type.innerText.toLowerCase()],
           {
             id: data[type.innerText.toLowerCase()].length,
-            imageUrl: img.querySelector('img').src.replace('20', '128'),
+            imageUrl: img
+              .querySelector('img')
+              .src.replace('/thumb', '')
+              .replace(/\/20px-.+$/, ''),
             name: name.innerText,
             type: type.innerText.toLowerCase()
           }

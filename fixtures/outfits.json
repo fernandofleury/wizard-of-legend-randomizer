@@ -1,0 +1,57 @@
+[
+  {
+    "id": 0,
+    "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/1/18/Hope.png",
+    "name": "Hope"
+  },
+  {
+    "id": 1,
+    "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/b/bf/Patience.png",
+    "name": "Patience"
+  },
+  {
+    "id": 2,
+    "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/f/f4/Vigor.png",
+    "name": "Vigor"
+  },
+  {
+    "id": 3,
+    "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/1/17/Grit.png",
+    "name": "Grit"
+  },
+  {
+    "id": 4,
+    "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/f/fa/Tempo.png",
+    "name": "Tempo"
+  },
+  {
+    "id": 5,
+    "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/4/4b/Pace.png",
+    "name": "Pace"
+  },
+  {
+    "id": 6,
+    "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/0/00/Shift.png",
+    "name": "Shift"
+  },
+  {
+    "id": 7,
+    "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/e/e3/Awe.png",
+    "name": "Awe"
+  },
+  {
+    "id": 8,
+    "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/a/ac/Rule.png",
+    "name": "Rule"
+  },
+  {
+    "id": 9,
+    "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/f/fd/Venture.png",
+    "name": "Venture"
+  },
+  {
+    "id": 10,
+    "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/b/b3/Pride.png",
+    "name": "Pride"
+  }
+]

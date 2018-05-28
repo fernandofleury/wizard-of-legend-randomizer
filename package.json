@@ -8,6 +8,7 @@
     "build": "webpack --config webpack.prod.js",
     "scrape:arcanas": "node scripts/getArcanas",
     "scrape:relics": "node scripts/getRelics",
+    "scrape:outfits": "node scripts/getOutfits",
     "deploy": "npm run build && push-dir --dir=dist --branch=gh-pages --cleanup"
   },
   "devDependencies": {

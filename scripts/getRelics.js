@@ -17,7 +17,7 @@ const fs = require('fs');
         if (type.innerText.toLowerCase() !== 'cursed' && imgEl) {
           data.push({
             id: data.length,
-            imageUrl: imgEl.src.replace('/thumb', '').replace('20px-', '128px-'),
+            imageUrl: imgEl.src.replace('/thumb', '').replace(/\/20px-.+$/, ''),
             name: name.innerText,
             type: type.innerText.toLowerCase()
           });
