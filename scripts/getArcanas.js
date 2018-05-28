@@ -46,9 +46,6 @@ const parseInitialTable = ({ basic, dash, standard, signature }) => ({
     )
   );
 
-  console.log(initialTable.standard.length);
-  console.log(initialTable.signature.length);
-
   const parsedTable = parseInitialTable(initialTable);
 
   fs.writeFileSync(

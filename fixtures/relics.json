@@ -1,0 +1,902 @@
+[
+  {
+    "id": 0,
+    "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/d/d0/Absorption_Coil.png/Absorption_Coil.png?version=a25c4ddd4222a6f3a18ab32f6d973a52",
+    "name": "Absorption Coil",
+    "type": "misc"
+  },
+  {
+    "id": 1,
+    "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/1/14/Agni%27s_Sparkler.png/Agni%27s_Sparkler.png?version=141a05da2479f3257dd84ca6d69037cc",
+    "name": "Agni's Sparkler",
+    "type": "offense"
+  },
+  {
+    "id": 2,
+    "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/c/c0/Albert%27s_Formula.png/Albert%27s_Formula.png?version=b18d4c64c5c28756aef14d24b0b40c9a",
+    "name": "Albert's Formula",
+    "type": "misc"
+  },
+  {
+    "id": 3,
+    "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/1/13/Amulet_of_Sundering.png/Amulet_of_Sundering.png?version=ee88d4552588693a8a25c952d76c0ed9",
+    "name": "Amulet of Sundering",
+    "type": "offense"
+  },
+  {
+    "id": 4,
+    "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/c/c1/Analytical_Monocle.png/Analytical_Monocle.png?version=a3dc2f5617bcdd452f470e2271c835fa",
+    "name": "Analytical Monocle",
+    "type": "offense"
+  },
+  {
+    "id": 5,
+    "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/d/dc/Ancient_Fountain_Pen.png/Ancient_Fountain_Pen.png?version=44b935baedc60f42783e7d57365038b1",
+    "name": "Ancient Fountain Pen",
+    "type": "offense"
+  },
+  {
+    "id": 6,
+    "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/4/49/Antiquated_Tabi.png/Antiquated_Tabi.png?version=77aed4caaaab05b7383096eeeb06d129",
+    "name": "Antiquated Tabi",
+    "type": "defense"
+  },
+  {
+    "id": 7,
+    "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/b/ba/Arcana_Rewards_Card.png/Arcana_Rewards_Card.png?version=990dd7157f23c1fcee668d5719567c28",
+    "name": "Arcana Rewards Card",
+    "type": "misc"
+  },
+  {
+    "id": 8,
+    "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/3/37/Armor_of_Resolve.png/Armor_of_Resolve.png?version=7b32c7cb0b98884d24cd39046f769a01",
+    "name": "Armor of Resolve",
+    "type": "defense"
+  },
+  {
+    "id": 9,
+    "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/2/2f/Assassin%27s_Blade.png/Assassin%27s_Blade.png?version=22c85d0dfbe666d244668dc1a7433275",
+    "name": "Assassin's Blade",
+    "type": "offense"
+  },
+  {
+    "id": 10,
+    "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/0/0d/Auditor%27s_Talisman.png/Auditor%27s_Talisman.png?version=276c9f288604aaf0c87ef92287cdaf1f",
+    "name": "Auditor's Talisman",
+    "type": "offense"
+  },
+  {
+    "id": 11,
+    "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/0/0c/Auger_of_Poetry.png/Auger_of_Poetry.png?version=5c72ad859c37fd8a73d3714a0188fce6",
+    "name": "Auger of Poetry",
+    "type": "defense"
+  },
+  {
+    "id": 12,
+    "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/c/c1/Autograph_Pad.png/Autograph_Pad.png?version=d3daa95f7962a9b3a38f39f721b4c9fc",
+    "name": "Autograph Pad",
+    "type": "offense"
+  },
+  {
+    "id": 13,
+    "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/b/bb/Battery_of_Taranis.png/Battery_of_Taranis.png?version=5f5fb81c0ca37cb6977d1cac459bb0e6",
+    "name": "Battery of Taranis",
+    "type": "offense"
+  },
+  {
+    "id": 14,
+    "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/1/1c/Berserker%27s_Axe.png/Berserker%27s_Axe.png?version=42c46b9f97a228184b851bb8bc3bb524",
+    "name": "Berserker's Axe",
+    "type": "offense"
+  },
+  {
+    "id": 15,
+    "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/5/52/Berserker%27s_Helm.png/Berserker%27s_Helm.png?version=cda95b09456357aa62d30b0f16dea6ce",
+    "name": "Berserker's Helm",
+    "type": "offense"
+  },
+  {
+    "id": 16,
+    "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/2/22/Bladed_Buckler.png/Bladed_Buckler.png?version=2f4120cd76878d39074a095b9c151027",
+    "name": "Bladed Buckler",
+    "type": "misc"
+  },
+  {
+    "id": 17,
+    "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/c/c1/Blasting_Sprite_Aura.png/Blasting_Sprite_Aura.png?version=202457aef4c9e9dd17b9ca08777b6c66",
+    "name": "Blasting Sprite Aura",
+    "type": "misc"
+  },
+  {
+    "id": 18,
+    "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/d/d9/Boots_of_Frenzy.png/Boots_of_Frenzy.png?version=6010fc0d5566e353d03efbe7d6240b7f",
+    "name": "Boots of Frenzy",
+    "type": "misc"
+  },
+  {
+    "id": 19,
+    "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/6/63/Bracers_of_the_Beast.png/Bracers_of_the_Beast.png?version=f537e45c2e277b789f8de2c6e38ffded",
+    "name": "Bracers of the Beast",
+    "type": "defense"
+  },
+  {
+    "id": 20,
+    "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/9/98/C-99_Piggy_Bank.png/C-99_Piggy_Bank.png?version=9f4391bc84aa69b38bb6dc975f30ac2e",
+    "name": "C-99 Piggy Bank",
+    "type": "misc"
+  },
+  {
+    "id": 21,
+    "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/0/0a/Calcifying_Bonemail.png/Calcifying_Bonemail.png?version=71a54c4b66c742b68f9886a0f5b5d026",
+    "name": "Calcifying Bonemail",
+    "type": "defense"
+  },
+  {
+    "id": 22,
+    "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/e/ed/Calvin%27s_Sandy_Shoes.png/Calvin%27s_Sandy_Shoes.png?version=31aa3e519d0f934e248b9862ea15ce94",
+    "name": "Calvin's Sandy Shoes",
+    "type": "defense"
+  },
+  {
+    "id": 23,
+    "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/8/82/Captain%27s_Ring.png/Captain%27s_Ring.png?version=a8ed73fa13cef24b2f1c646cc6c70ccf",
+    "name": "Captain's Ring",
+    "type": "offense"
+  },
+  {
+    "id": 24,
+    "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/a/ad/Cartographer%27s_Quill.png/Cartographer%27s_Quill.png?version=f5c0f74c3b69bfef84b73bec88eb4691",
+    "name": "Cartographer's Quill",
+    "type": "offense"
+  },
+  {
+    "id": 25,
+    "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/d/de/Chaos_Scanner.png/Chaos_Scanner.png?version=24b8edaa870a65981899a65fdb4beff2",
+    "name": "Chaos Scanner",
+    "type": "misc"
+  },
+  {
+    "id": 26,
+    "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/1/12/Charming_Teddy_Bear.png/Charming_Teddy_Bear.png?version=ab49a4043e7fb8578a2b71712a4b88ba",
+    "name": "Charming Teddy Bear",
+    "type": "defense"
+  },
+  {
+    "id": 27,
+    "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/e/e2/Cobalt_Firestone.png/Cobalt_Firestone.png?version=c46c629749f25f9ea8f4ac88540b2429",
+    "name": "Cobalt Firestone",
+    "type": "offense"
+  },
+  {
+    "id": 28,
+    "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/b/b2/Combo_Gloves.png/Combo_Gloves.png?version=94190facee7c0530ed7c15f27737d77d",
+    "name": "Combo Gloves",
+    "type": "misc"
+  },
+  {
+    "id": 29,
+    "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/7/77/Conqueror%27s_Belt.png/Conqueror%27s_Belt.png?version=67b9809a762c9871eeac0ec5aa9cc4b2",
+    "name": "Conqueror's Belt",
+    "type": "misc"
+  },
+  {
+    "id": 30,
+    "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/2/2c/Conqueror%27s_Cloak.png/Conqueror%27s_Cloak.png?version=24f5c7f4473baf0e57c188964bc6c0fa",
+    "name": "Conqueror's Cloak",
+    "type": "misc"
+  },
+  {
+    "id": 31,
+    "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/f/f8/Conqueror%27s_Helmet.png/Conqueror%27s_Helmet.png?version=131904f818d8f3098b4de164f2179037",
+    "name": "Conqueror's Helmet",
+    "type": "misc"
+  },
+  {
+    "id": 32,
+    "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/b/bd/Covert_Ops_Mask.png/Covert_Ops_Mask.png?version=708a43008b20b635baefaaffd6447805",
+    "name": "Covert Ops Mask",
+    "type": "offense"
+  },
+  {
+    "id": 33,
+    "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/3/3a/Critical_Placebos.png/Critical_Placebos.png?version=e285217ae1984a4334f34a49becec347",
+    "name": "Critical Placebos",
+    "type": "doctor"
+  },
+  {
+    "id": 34,
+    "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/1/19/Cushioned_Flip-flops.png/Cushioned_Flip-flops.png?version=0e05b47be0e38f19d053363ccc6c5cdb",
+    "name": "Cushioned Flip-flops",
+    "type": "defense"
+  },
+  {
+    "id": 35,
+    "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/7/7f/Dagger_of_Midas.png/Dagger_of_Midas.png?version=010fc52408e50ee94d2249e483814c6c",
+    "name": "Dagger of Midas",
+    "type": "offense"
+  },
+  {
+    "id": 36,
+    "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/0/0e/Dark_Katana.png/Dark_Katana.png?version=aa66ca550af505f17f6dc29b85cafaed",
+    "name": "Dark Katana",
+    "type": "offense"
+  },
+  {
+    "id": 37,
+    "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/4/44/Dated_Sunglasses.png/Dated_Sunglasses.png?version=b2134e7f9b8490d77283c52ba82eabdc",
+    "name": "Dated Sunglasses",
+    "type": "misc"
+  },
+  {
+    "id": 38,
+    "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/4/4f/Deafening_Cymbals.png/Deafening_Cymbals.png?version=c64fb4923ddceba832ec25f09a94478b",
+    "name": "Deafening Cymbals",
+    "type": "defense"
+  },
+  {
+    "id": 39,
+    "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/6/62/Demi%27s_Teapot.png/Demi%27s_Teapot.png?version=e348ac9a9cdc08a16c64c4a51d3cc306",
+    "name": "Demi's Teapot",
+    "type": "defense"
+  },
+  {
+    "id": 40,
+    "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/e/e8/Destructive_Abacus.png/Destructive_Abacus.png?version=1d3ee53fedce240fa8f7223956c91cd8",
+    "name": "Destructive Abacus",
+    "type": "misc"
+  },
+  {
+    "id": 41,
+    "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/d/d8/Devi%27s_Bug_Spray.png/Devi%27s_Bug_Spray.png?version=f14da8dc0f78de0d7f2bbafe6c8f667f",
+    "name": "Devi's Bug Spray",
+    "type": "offense"
+  },
+  {
+    "id": 42,
+    "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/9/9d/Dice_of_the_Nemesis.png/Dice_of_the_Nemesis.png?version=ecf4ceaa9faa48e5fcd2b6c6c5bf0f7c",
+    "name": "Dice of the Nemesis",
+    "type": "offense"
+  },
+  {
+    "id": 43,
+    "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/f/f7/Ebon_Wolf%27s_Cloak.png/Ebon_Wolf%27s_Cloak.png?version=198f296f3aedd2a32b63903458e3dffe",
+    "name": "Ebon Wolf's Cloak",
+    "type": "offense"
+  },
+  {
+    "id": 44,
+    "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/5/5b/Elemental_Pointes.png/Elemental_Pointes.png?version=823e6ae2d2ead2f778deca8659e26417",
+    "name": "Elemental Pointes",
+    "type": "misc"
+  },
+  {
+    "id": 45,
+    "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/9/95/Elven_Ears.png/Elven_Ears.png?version=ad41f1e7885ce3fef00d60fb8dcb8d98",
+    "name": "Elven Ears",
+    "type": "defense"
+  },
+  {
+    "id": 46,
+    "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/8/85/Equestricap.png/Equestricap.png?version=c18ddf7bab2728937462e59a6845e1d9",
+    "name": "Equestricap",
+    "type": "defense"
+  },
+  {
+    "id": 47,
+    "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/7/71/Euphie%27s_Shawl.png/Euphie%27s_Shawl.png?version=d71063247465f43804c7c6723e1ddb2f",
+    "name": "Euphie's Shawl",
+    "type": "defense"
+  },
+  {
+    "id": 48,
+    "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/c/c6/Evening_Gloves.png/Evening_Gloves.png?version=84ff436edde909eb3076efad33fdbff2",
+    "name": "Evening Gloves",
+    "type": "misc"
+  },
+  {
+    "id": 49,
+    "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/4/46/Flak_Gauntlet.png/Flak_Gauntlet.png?version=6c3af24a4cc7bf97f3279aa7530b0855",
+    "name": "Flak Gauntlet",
+    "type": "misc"
+  },
+  {
+    "id": 50,
+    "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/a/ac/Fortune_Cookie.png/Fortune_Cookie.png?version=14bd229100625faf74ca42679cf15a46",
+    "name": "Fortune Cookie",
+    "type": "offense"
+  },
+  {
+    "id": 51,
+    "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/9/93/Freezing_Sprite_Naya.png/Freezing_Sprite_Naya.png?version=88230efbd2e97232b46ed1a98d718be8",
+    "name": "Freezing Sprite Naya",
+    "type": "misc"
+  },
+  {
+    "id": 52,
+    "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/2/2a/Friendship_Bracelet.png/Friendship_Bracelet.png?version=eb058a9216fb544bbea802d4567addad",
+    "name": "Friendship Bracelet",
+    "type": "offense"
+  },
+  {
+    "id": 53,
+    "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/6/6e/Fuzzy_Handwarmers.png/Fuzzy_Handwarmers.png?version=9b142cbf75bf41eac2fcecac7988d518",
+    "name": "Fuzzy Handwarmers",
+    "type": "defense"
+  },
+  {
+    "id": 54,
+    "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/b/be/Gaia%27s_Shovel.png/Gaia%27s_Shovel.png?version=299acb8bc15df1a537089ac18b14392b",
+    "name": "Gaia's Shovel",
+    "type": "offense"
+  },
+  {
+    "id": 55,
+    "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/c/c6/Giant%27s_Heart.png/Giant%27s_Heart.png?version=2238c53c38b9bc44ca366b8295c35175",
+    "name": "Giant's Heart",
+    "type": "defense"
+  },
+  {
+    "id": 56,
+    "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/e/ed/Glove_of_Midas.png/Glove_of_Midas.png?version=e91a380b98496f49b9b19dac2358cb70",
+    "name": "Glove of Midas",
+    "type": "misc"
+  },
+  {
+    "id": 57,
+    "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/e/e2/Greased_Boots.png/Greased_Boots.png?version=9d753ef2788e0ac29155e9d5c9aea9fc",
+    "name": "Greased Boots",
+    "type": "defense"
+  },
+  {
+    "id": 58,
+    "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/c/cd/Grimoire_of_Ruin.png/Grimoire_of_Ruin.png?version=e0b71dfaba1e79f8bd4a5a0d72d3412c",
+    "name": "Grimoire of Ruin",
+    "type": "misc"
+  },
+  {
+    "id": 59,
+    "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/1/11/Gummy_Vitamins.png/Gummy_Vitamins.png?version=2d943b3d3cb3c2105582270ae794c3b4",
+    "name": "Gummy Vitamins",
+    "type": "defense"
+  },
+  {
+    "id": 60,
+    "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/2/2a/Health_Care_Card.png/Health_Care_Card.png?version=5786afae70d438d8794a93707b882c35",
+    "name": "Health Care Card",
+    "type": "doctor"
+  },
+  {
+    "id": 61,
+    "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/5/54/Heavy_Travel_Jacket.png/Heavy_Travel_Jacket.png?version=dbe46a2553a4505f1ed74c81521d0cc9",
+    "name": "Heavy Travel Jacket",
+    "type": "defense"
+  },
+  {
+    "id": 62,
+    "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/1/17/Hummingbird_Feather.png/Hummingbird_Feather.png?version=c0f7b621a2923a941f95bca98fe879fd",
+    "name": "Hummingbird Feather",
+    "type": "defense"
+  },
+  {
+    "id": 63,
+    "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/a/aa/Hunter%27s_Stiletto.png/Hunter%27s_Stiletto.png?version=ca125fb2c38b43ea97a4db942d42bfbd",
+    "name": "Hunter's Stiletto",
+    "type": "offense"
+  },
+  {
+    "id": 64,
+    "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/a/a3/Hyperbolic_Train.png/Hyperbolic_Train.png?version=2d080c7908c09b53abebf05ce6c76414",
+    "name": "Hyperbolic Train",
+    "type": "misc"
+  },
+  {
+    "id": 65,
+    "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/5/5b/Idealist%27s_Mirror.png/Idealist%27s_Mirror.png?version=4130f692b0b58f9b4c801c1f974bf6eb",
+    "name": "Idealist's Mirror",
+    "type": "offense"
+  },
+  {
+    "id": 66,
+    "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/e/e8/Ifrit%27s_Matchstick.png/Ifrit%27s_Matchstick.png?version=4ac3b4be048599c61744e3bc5d726a88",
+    "name": "Ifrit's Matchstick",
+    "type": "offense"
+  },
+  {
+    "id": 67,
+    "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/c/c6/Igniting_Sprite_Vesa.png/Igniting_Sprite_Vesa.png?version=1634186f119f8eb01dba095e13ba228a",
+    "name": "Igniting Sprite Vesa",
+    "type": "misc"
+  },
+  {
+    "id": 68,
+    "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/c/c3/Indra%27s_Copper_Pipe.png/Indra%27s_Copper_Pipe.png?version=d7af33174c4df027f4d25e4e1eb2d6c6",
+    "name": "Indra's Copper Pipe",
+    "type": "offense"
+  },
+  {
+    "id": 69,
+    "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/9/97/Infinity_Marble.png/Infinity_Marble.png?version=d476a3014dc164d3388adf7f92c343aa",
+    "name": "Infinity Marble",
+    "type": "misc"
+  },
+  {
+    "id": 70,
+    "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/1/1f/Insignia_of_Legend.png/Insignia_of_Legend.png?version=d95564297f4316847fc3c05f5e44a0d7",
+    "name": "Insignia of Legend",
+    "type": "misc"
+  },
+  {
+    "id": 71,
+    "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/5/5e/Jewelry_Box.png/Jewelry_Box.png?version=54a0b8349e06e686af8840f8592c639c",
+    "name": "Jewelry Box",
+    "type": "defense"
+  },
+  {
+    "id": 72,
+    "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/8/81/Journal_of_Midas.png/Journal_of_Midas.png?version=ab5a2812b4fd6bf4118e01b22856cc59",
+    "name": "Journal of Midas",
+    "type": "misc"
+  },
+  {
+    "id": 73,
+    "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/8/8b/Kali%27s_Flower_Diadem.png/Kali%27s_Flower_Diadem.png?version=35e1feef90ee7b31d0aacb918e19d416",
+    "name": "Kali's Flower Diadem",
+    "type": "defense"
+  },
+  {
+    "id": 74,
+    "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/6/6d/Leemo%27s_Leaf.png/Leemo%27s_Leaf.png?version=750ecebba2eda86a7987dd99ab77bb22",
+    "name": "Leemo's Leaf",
+    "type": "defense"
+  },
+  {
+    "id": 75,
+    "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/2/28/Lei%27s_Drum.png/Lei%27s_Drum.png?version=8670ef7e4e9982fe1bae8fc8cfcac1e5",
+    "name": "Lei's Drum",
+    "type": "defense"
+  },
+  {
+    "id": 76,
+    "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/c/c6/Limited_Edition_Robe.png/Limited_Edition_Robe.png?version=6598a162c933bda14ff5c217a0a2c8a4",
+    "name": "Limited Edition Robe",
+    "type": "defense"
+  },
+  {
+    "id": 77,
+    "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/3/33/Lotus_Froststone.png/Lotus_Froststone.png?version=91d60774a1fdf4a71b70b83159728d5e",
+    "name": "Lotus Froststone",
+    "type": "offense"
+  },
+  {
+    "id": 78,
+    "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/9/9f/Memory_Chainmail.png/Memory_Chainmail.png?version=e9342596e977427f6ce5f90f31045006",
+    "name": "Memory Chainmail",
+    "type": "defense"
+  },
+  {
+    "id": 79,
+    "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/a/ae/Merchant%27s_Cart.png/Merchant%27s_Cart.png?version=4a9c9c352507a753f6d743e4adec2666",
+    "name": "Merchant's Cart",
+    "type": "offense"
+  },
+  {
+    "id": 80,
+    "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/b/bf/Mercury%27s_Sandals.png/Mercury%27s_Sandals.png?version=c9ba892739bbdd365b8687c625523ee6",
+    "name": "Mercury's Sandals",
+    "type": "defense"
+  },
+  {
+    "id": 81,
+    "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/c/ca/Messy_Prescription.png/Messy_Prescription.png?version=d8b98c2719225b047b8c8369baa992db",
+    "name": "Messy Prescription",
+    "type": "doctor"
+  },
+  {
+    "id": 82,
+    "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/9/93/Mirror_Shield.png/Mirror_Shield.png?version=7151a0a32a3a6f1ef29170c5674d8cc3",
+    "name": "Mirror Shield",
+    "type": "defense"
+  },
+  {
+    "id": 83,
+    "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/5/5d/Museum_Ticket.png/Museum_Ticket.png?version=c2bd059bb74b7394405dc16826d05607",
+    "name": "Museum Ticket",
+    "type": "misc"
+  },
+  {
+    "id": 84,
+    "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/4/44/Mystic_Monopole.png/Mystic_Monopole.png?version=fa8a5a3408dc0e95e47bc977a347401c",
+    "name": "Mystic Monopole",
+    "type": "misc"
+  },
+  {
+    "id": 85,
+    "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/4/4c/Nerite_Shell.png/Nerite_Shell.png?version=9fb70283741d695c960bf299681fa15f",
+    "name": "Nerite Shell",
+    "type": "offense"
+  },
+  {
+    "id": 86,
+    "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/b/bb/Neve%27s_Citrine.png/Neve%27s_Citrine.png?version=70d1d37467bd22ad0fb5b1a928ca8ef8",
+    "name": "Neve's Citrine",
+    "type": "offense"
+  },
+  {
+    "id": 87,
+    "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/9/91/Neve%27s_Emerald.png/Neve%27s_Emerald.png?version=1c537814367a017bb2d52ca8deb500d0",
+    "name": "Neve's Emerald",
+    "type": "defense"
+  },
+  {
+    "id": 88,
+    "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/9/91/Neve%27s_Quartz.png/Neve%27s_Quartz.png?version=7b782321b3d667417a7b956f0903fc16",
+    "name": "Neve's Quartz",
+    "type": "defense"
+  },
+  {
+    "id": 89,
+    "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/3/3d/Neve%27s_Ruby.png/Neve%27s_Ruby.png?version=f4aec678fe40063a77c91b84a43ee820",
+    "name": "Neve's Ruby",
+    "type": "offense"
+  },
+  {
+    "id": 90,
+    "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/d/df/Neve%27s_Sapphire.png/Neve%27s_Sapphire.png?version=1a24dff9dc2c831ca50ad71a2b2bc080",
+    "name": "Neve's Sapphire",
+    "type": "misc"
+  },
+  {
+    "id": 91,
+    "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/f/f0/Nocturnal_Sundial.png/Nocturnal_Sundial.png?version=3e82eb15fc1f138bd27146a3d575e161",
+    "name": "Nocturnal Sundial",
+    "type": "misc"
+  },
+  {
+    "id": 92,
+    "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/0/06/Noxious_Dappercap.png/Noxious_Dappercap.png?version=fe40ad5354fe3a42a1c9afb61ffea60c",
+    "name": "Noxious Dappercap",
+    "type": "offense"
+  },
+  {
+    "id": 93,
+    "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/7/73/Pathfinder%27s_Knapsack.png/Pathfinder%27s_Knapsack.png?version=99bb98c96a4e3e5e5cef5df45d6450a6",
+    "name": "Pathfinder's Knapsack",
+    "type": "defense"
+  },
+  {
+    "id": 94,
+    "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/5/52/Pathfinder%27s_Map.png/Pathfinder%27s_Map.png?version=8b8142d4030a07a4d4aac87c4acd0b92",
+    "name": "Pathfinder's Map",
+    "type": "misc"
+  },
+  {
+    "id": 95,
+    "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/9/9d/Pazu%27s_Favorite_Hat.png/Pazu%27s_Favorite_Hat.png?version=d46e0ad9935c2ed1f595520b1a9afdcb",
+    "name": "Pazu's Favorite Hat",
+    "type": "defense"
+  },
+  {
+    "id": 96,
+    "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/2/23/Perfect_Time_Crystal.png/Perfect_Time_Crystal.png?version=41b654edd573ef9530ffaaece88ac3eb",
+    "name": "Perfect Time Crystal",
+    "type": "offense"
+  },
+  {
+    "id": 97,
+    "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/c/c0/Permafrost_Cube.png/Permafrost_Cube.png?version=65b831ba2f9c24df680ddbac16e5eec1",
+    "name": "Permafrost Cube",
+    "type": "offense"
+  },
+  {
+    "id": 98,
+    "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/7/76/Phoenix_Talon.png/Phoenix_Talon.png?version=5000508045550a3eefc1d145dc1e8a62",
+    "name": "Phoenix Talon",
+    "type": "offense"
+  },
+  {
+    "id": 99,
+    "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/6/6b/Phyyrnx%27s_Hourglass.png/Phyyrnx%27s_Hourglass.png?version=2abb5eea83ba53b08dfda0f1e9935dfb",
+    "name": "Phyyrnx's Hourglass",
+    "type": "misc"
+  },
+  {
+    "id": 100,
+    "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/a/ac/Plaguing_Sprite_Dria.png/Plaguing_Sprite_Dria.png?version=be3e091e98fdc7e2de53f7935b6ab74c",
+    "name": "Plaguing Sprite Dria",
+    "type": "misc"
+  },
+  {
+    "id": 101,
+    "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/c/c4/Poem_of_Fiery_Rime.png/Poem_of_Fiery_Rime.png?version=e9cc0cac37207c9e5d8b06c67e7cf365",
+    "name": "Poem of Fiery Rime",
+    "type": "offense"
+  },
+  {
+    "id": 102,
+    "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/c/ce/Pop-up_Primer.png/Pop-up_Primer.png?version=8ec8d44e503b92b644fe2fc5598b9346",
+    "name": "Pop-up Primer",
+    "type": "misc"
+  },
+  {
+    "id": 103,
+    "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/0/0f/Puffy_Parka.png/Puffy_Parka.png?version=210eeda61cd6e155acb53df6fb834151",
+    "name": "Puffy Parka",
+    "type": "defense"
+  },
+  {
+    "id": 104,
+    "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/c/c8/Raffle_Ticket.png/Raffle_Ticket.png?version=4c51998e79906b23dc8e314c509999c9",
+    "name": "Raffle Ticket",
+    "type": "misc"
+  },
+  {
+    "id": 105,
+    "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/d/d8/Raspberry_Cookie_Box.png/Raspberry_Cookie_Box.png?version=535f70a218a202f23650cfa37dfe0116",
+    "name": "Raspberry Cookie Box",
+    "type": "defense"
+  },
+  {
+    "id": 106,
+    "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/2/20/Reactive_Vinemail.png/Reactive_Vinemail.png?version=de3fc29d4eb936921214486d742456e8",
+    "name": "Reactive Vinemail",
+    "type": "defense"
+  },
+  {
+    "id": 107,
+    "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/6/63/Regenerative_Inkwell.png/Regenerative_Inkwell.png?version=bdab4834cb1313904ac848c6af5ddc42",
+    "name": "Regenerative Inkwell",
+    "type": "defense"
+  },
+  {
+    "id": 108,
+    "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/b/bb/Reinforced_Bracers.png/Reinforced_Bracers.png?version=50523272425ac656f76cb5defdb3a9e2",
+    "name": "Reinforced Bracers",
+    "type": "misc"
+  },
+  {
+    "id": 109,
+    "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/d/da/Relic_Rewards_Card.png/Relic_Rewards_Card.png?version=34995294c9029e1b3daf6bd5f270d2db",
+    "name": "Relic Rewards Card",
+    "type": "misc"
+  },
+  {
+    "id": 110,
+    "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/b/b1/Renewing_Potion_Vial.png/Renewing_Potion_Vial.png?version=189bced363a42a02cfafca252a4ab408",
+    "name": "Renewing Potion Vial",
+    "type": "doctor"
+  },
+  {
+    "id": 111,
+    "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/b/bb/Resolute_Svalinn.png/Resolute_Svalinn.png?version=9232fa19e087692572e080ca57e15830",
+    "name": "Resolute Svalinn",
+    "type": "defense"
+  },
+  {
+    "id": 112,
+    "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/8/8c/Ring_of_Recycling.png/Ring_of_Recycling.png?version=5fb75ce1b8d56bca632d97ff0364bb4d",
+    "name": "Ring of Recycling",
+    "type": "defense"
+  },
+  {
+    "id": 113,
+    "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/6/6f/Ring_of_Reserves.png/Ring_of_Reserves.png?version=329d5f3ce64cbe22cf01147637568553",
+    "name": "Ring of Reserves",
+    "type": "misc"
+  },
+  {
+    "id": 114,
+    "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/1/17/Roxel%27s_Pendulum.png/Roxel%27s_Pendulum.png?version=5eab64e8f9254c35fc5f9bbfcf0dd9d3",
+    "name": "Roxel's Pendulum",
+    "type": "misc"
+  },
+  {
+    "id": 115,
+    "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/c/cf/Royal_Flush.png/Royal_Flush.png?version=5f798db2b27c0e319bb56800ca2eaa4d",
+    "name": "Royal Flush",
+    "type": "offense"
+  },
+  {
+    "id": 116,
+    "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/a/ac/Rudra%27s_Pinwheel.png/Rudra%27s_Pinwheel.png?version=60c1329a0db41090fecb4642a69c1308",
+    "name": "Rudra's Pinwheel",
+    "type": "offense"
+  },
+  {
+    "id": 117,
+    "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/6/61/Sano%27s_Headband.png/Sano%27s_Headband.png?version=215eed8e63ae05a294686ae19ef0a8fc",
+    "name": "Sano's Headband",
+    "type": "misc"
+  },
+  {
+    "id": 118,
+    "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/0/07/Scissors_of_Vitality.png/Scissors_of_Vitality.png?version=0dc09e10d87946017391f37f77def17c",
+    "name": "Scissors of Vitality",
+    "type": "defense"
+  },
+  {
+    "id": 119,
+    "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/8/8d/Secret_Wild_Card.png/Secret_Wild_Card.png?version=f1a1bf5fc5b8c0244261583da9785da4",
+    "name": "Secret Wild Card",
+    "type": "offense"
+  },
+  {
+    "id": 120,
+    "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/d/d3/Shiva%27s_Water_Bottle.png/Shiva%27s_Water_Bottle.png?version=716f1040153ce366c21a2b014122cfba",
+    "name": "Shiva's Water Bottle",
+    "type": "offense"
+  },
+  {
+    "id": 121,
+    "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/0/0b/Sidewinder%27s_Badge.png/Sidewinder%27s_Badge.png?version=98b9faa66665f447300b0940e5909732",
+    "name": "Sidewinder's Badge",
+    "type": "offense"
+  },
+  {
+    "id": 122,
+    "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/2/22/Singing_Bowl.png/Singing_Bowl.png?version=864d09d4117af59a7dbcdc48e9b5bd90",
+    "name": "Singing Bowl",
+    "type": "offense"
+  },
+  {
+    "id": 123,
+    "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/6/61/Sinister_Ledger.png/Sinister_Ledger.png?version=ab60418d706b08528037f3b44cc1d476",
+    "name": "Sinister Ledger",
+    "type": "offense"
+  },
+  {
+    "id": 124,
+    "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/5/5b/Sleepy_Thunderstone.png/Sleepy_Thunderstone.png?version=430772c4fcf852e175e9e38ca5c4a5c9",
+    "name": "Sleepy Thunderstone",
+    "type": "offense"
+  },
+  {
+    "id": 125,
+    "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/e/ef/Sparking_Sprite_Etra.png/Sparking_Sprite_Etra.png?version=7881065a30df9aab862c971b407177d1",
+    "name": "Sparking Sprite Etra",
+    "type": "misc"
+  },
+  {
+    "id": 126,
+    "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/2/21/Special_Snowflake.png/Special_Snowflake.png?version=31689616165f2eaef7a3c269b02aac4c",
+    "name": "Special Snowflake",
+    "type": "offense"
+  },
+  {
+    "id": 127,
+    "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/5/51/Spell_Thief%27s_Socks.png/Spell_Thief%27s_Socks.png?version=c7beb52a73e3444d8a3db3aebbdba62a",
+    "name": "Spell Thief's Socks",
+    "type": "defense"
+  },
+  {
+    "id": 128,
+    "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/d/d3/Spice_Rack.png/Spice_Rack.png?version=f5be6ef8d3c393ff312c2010fe7d9be1",
+    "name": "Spice Rack",
+    "type": "misc"
+  },
+  {
+    "id": 129,
+    "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/d/df/Stanza_of_Frost.png/Stanza_of_Frost.png?version=9e1a775102aec3bf4f0a8e0f3c627fbc",
+    "name": "Stanza of Frost",
+    "type": "offense"
+  },
+  {
+    "id": 130,
+    "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/b/bf/Stygian_Turtle_Shell.png/Stygian_Turtle_Shell.png?version=bb9f558a4267e51e7decc9769e803017",
+    "name": "Stygian Turtle Shell",
+    "type": "defense"
+  },
+  {
+    "id": 131,
+    "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/4/4c/Super_Carrot_Cake.png/Super_Carrot_Cake.png?version=a6111b0313462d7976198ddb8fa2185a",
+    "name": "Super Carrot Cake",
+    "type": "defense"
+  },
+  {
+    "id": 132,
+    "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/c/c9/Super_Sunscreen.png/Super_Sunscreen.png?version=863e59eba39a4ecbf8ff396a4c5ea0ae",
+    "name": "Super Sunscreen",
+    "type": "defense"
+  },
+  {
+    "id": 133,
+    "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/4/48/Supply_Crate.png/Supply_Crate.png?version=b35711ca2962dee3d8eaf21629a0631d",
+    "name": "Supply Crate",
+    "type": "misc"
+  },
+  {
+    "id": 134,
+    "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/a/aa/Surefire_Rocket.png/Surefire_Rocket.png?version=9a9be80b32e62affcbacf79f22da2b7f",
+    "name": "Surefire Rocket",
+    "type": "misc"
+  },
+  {
+    "id": 135,
+    "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/0/04/Takeout_Box.png/Takeout_Box.png?version=1e50e7f3e7bbeb20aacdb473cc6ecd7e",
+    "name": "Takeout Box",
+    "type": "defense"
+  },
+  {
+    "id": 136,
+    "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/c/c5/Tapping_Gloves.png/Tapping_Gloves.png?version=50cc17edb831c73ba20ee5d228e6b963",
+    "name": "Tapping Gloves",
+    "type": "offense"
+  },
+  {
+    "id": 137,
+    "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/6/68/Tea_of_Mercy.png/Tea_of_Mercy.png?version=c17e04bdc0685679b6c564d9f4aca6b8",
+    "name": "Tea of Mercy",
+    "type": "defense"
+  },
+  {
+    "id": 138,
+    "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/6/6e/Tears_of_Midas.png/Tears_of_Midas.png?version=021ef4515bf0aa7558d9718d3b95577e",
+    "name": "Tears of Midas",
+    "type": "misc"
+  },
+  {
+    "id": 139,
+    "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/a/ac/Tesla_Coil.png/Tesla_Coil.png?version=a05eb3da01d0996366d42801c273a1e1",
+    "name": "Tesla Coil",
+    "type": "offense"
+  },
+  {
+    "id": 140,
+    "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/7/7a/Thesis_on_Defense.png/Thesis_on_Defense.png?version=549c5d1a18c2238aa4e7577b72a051e6",
+    "name": "Thesis on Defense",
+    "type": "defense"
+  },
+  {
+    "id": 141,
+    "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/e/eb/Three_Gorges_Bulwark.png/Three_Gorges_Bulwark.png?version=cb6bfb03f710b31b6cc394c1969b34b4",
+    "name": "Three Gorges Bulwark",
+    "type": "defense"
+  },
+  {
+    "id": 142,
+    "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/f/f6/Tozy%27s_Pocket_Watch.png/Tozy%27s_Pocket_Watch.png?version=54fb45dc2640350fe8ba2be0a501a7d2",
+    "name": "Tozy's Pocket Watch",
+    "type": "misc"
+  },
+  {
+    "id": 143,
+    "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/b/b2/Tracking_Suit.png/Tracking_Suit.png?version=6061616586318fcf90c3ca624c438d95",
+    "name": "Tracking Suit",
+    "type": "defense"
+  },
+  {
+    "id": 144,
+    "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/2/2e/Unicorn_Tail.png/Unicorn_Tail.png?version=370c1b2743c452cb56e930c1499896e6",
+    "name": "Unicorn Tail",
+    "type": "misc"
+  },
+  {
+    "id": 145,
+    "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/e/ef/Vampire%27s_Eyeglasses.png/Vampire%27s_Eyeglasses.png?version=e42bbb6b044432d3285333f67ecc4930",
+    "name": "Vampire's Eyeglasses",
+    "type": "defense"
+  },
+  {
+    "id": 146,
+    "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/5/57/Wallet_of_Vigor.png/Wallet_of_Vigor.png?version=7a74e3f9cf864e03605b06fba97acfa9",
+    "name": "Wallet of Vigor",
+    "type": "misc"
+  },
+  {
+    "id": 147,
+    "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/c/c7/Wanderer%27s_Mechanism.png/Wanderer%27s_Mechanism.png?version=df1c0deb7c198266f4e1cedc10dff024",
+    "name": "Wanderer's Mechanism",
+    "type": "offense"
+  },
+  {
+    "id": 148,
+    "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/0/0c/Whimsical_Explodium.png/Whimsical_Explodium.png?version=e4ef71e0b21500ef65232fbeb3ff43f4",
+    "name": "Whimsical Explodium",
+    "type": "offense"
+  },
+  {
+    "id": 149,
+    "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/wizardoflegend_gamepedia_en/c/cb/Yuna%27s_Storybook.png/Yuna%27s_Storybook.png?version=c200df488e807dbddda035427899b4c5",
+    "name": "Yuna's Storybook",
+    "type": "misc"
+  }
+]
