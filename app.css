@@ -1,0 +1,212 @@
+/* http://meyerweb.com/eric/tools/css/reset/
+   v3.0 | 20180413
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+main, menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure,
+footer, header, hgroup, main, menu, nav, section {
+	display: block;
+}
+/* HTML5 hidden-attribute fix for newer browsers */
+*[hidden] {
+    display: none;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html, body {
+  font-family: 'Press Start 2P', cursive;
+}
+
+body {
+  color: white;
+  text-align: center;
+}
+
+.bg {
+  background-position: center center;
+  height: 100%;
+  left: 0;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: -1;
+}
+
+.logo {
+  display: block;
+  margin: 20px auto 0 auto;
+  max-width: 600px;
+  width: 100%;
+}
+
+.title {
+  font-size: 40px;
+}
+
+.text-shadow {
+  text-shadow: 1px 2px 0 black;
+}
+
+.selection {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 40px 0;
+  padding: 10px;
+  justify-content: center;
+}
+
+.base-item {
+  box-sizing: content-box;
+  height: 220px;
+  padding: 20px;
+  position: relative;
+  width: 150px;
+}
+
+.arcana-item, .relic-item, .outfit-item {
+  align-items: center;
+  border-radius: 4px;
+  display: flex;
+  height: 100%;
+  justify-content: center;
+  padding: 20px;
+  width: 100%;
+}
+
+.arcana-item {
+  background-color: #b0a99a;
+  border: 10px solid #d5cdb7;
+  box-shadow: 0 3px 0 #716958, inset 0 0 0 3px #908970;
+}
+
+.relic-item, .outfit-item {
+  background-color: rgba(168, 153, 130, 0.2);
+  border: 10px solid rgba(168, 153, 130, 0.3);
+}
+
+.item-image-wrapper {
+  /* #504039 */
+  background-color: #a89983;
+  border: 6px solid #53433b;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  padding: 10px;
+  position: relative;
+}
+
+.item-image-wrapper::before {
+  content: '';
+  background-color: #a89983;
+  border: 2px solid #53433b;
+  height: 100px;
+  position: absolute;
+  transform: rotate(45deg);
+  width: 100px;
+}
+
+.item-image-wrapper::after {
+  content: '';
+  background-color: #53433b;
+  height: 80px;
+  position: absolute;
+  transform: rotate(45deg);
+  width: 80px;
+}
+
+.signature.arcana-item {
+  background-color: #615b66;
+  border-color: #f5ce6b;
+  box-shadow: 0 3px 0 #d3a447, inset 0 0 0 3px #a6814b;
+}
+
+.signature .item-image-wrapper {
+  background-color: #443e49;
+  border-color: #342e39;
+}
+
+.signature .item-image-wrapper::before {
+  border-color: #342e39;
+  background-color:#443f4a;
+}
+
+.signature .item-image-wrapper::after {
+  background-color: #342e39;
+}
+
+.item-image {
+  width: 60px;
+  z-index: 2;
+}
+
+.outfit-item .item-image {
+  width: 150px;
+}
+
+.relic-item .item-image {
+  width: 95px;
+}
+
+.btn {
+  border: 0;
+  color: white;
+  cursor: pointer;
+  font-family: inherit;
+  font-size: 20px;
+  margin-bottom: 60px;
+  padding: 10px 20px;
+}
+
+[data-button="shuffle"] {
+  background-color: #52bb52;
+  box-shadow: 0 5px 0 #3f963f;
+}
+
+[data-button="copy"] {
+  background-color: #2196f3;
+  box-shadow: 0 5px 0 #2583ce;
+}
+
