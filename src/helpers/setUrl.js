@@ -1,5 +1,5 @@
 import { replace } from 'ramda';
-const urlFormat = /\/\d{2}-\d{2}-\d{3}-\d{2}/;
+import { urlFormat } from '../constants';
 
 const replaceWithId = (id, path) => path.replace(urlFormat, `/${id}`);
 

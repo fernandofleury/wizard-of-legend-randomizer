@@ -1,7 +1,7 @@
 import { find, propEq } from 'ramda';
-import arcanas from '../fixtures/arcanas';
-import relics from '../fixtures/relics';
-import outfits from '../fixtures/outfits';
+import arcanas from '../../fixtures/arcanas';
+import relics from '../../fixtures/relics';
+import outfits from '../../fixtures/outfits';
 
 export default ([basic, dash, standard, signature, relic, outfit]) => ({
   basic: find(propEq('id', Number(basic)), arcanas.basic),
