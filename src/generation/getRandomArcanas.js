@@ -1,6 +1,6 @@
 import { compose, head, concat } from 'ramda';
-import arcanas from '../fixtures/arcanas.json';
-import shuffle from './shuffle';
+import arcanas from '../../fixtures/arcanas.json';
+import shuffle from '../helpers/shuffle';
 
 const getRandom = compose(head, shuffle);
 

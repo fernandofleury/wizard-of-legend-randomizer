@@ -39,21 +39,38 @@ body {
 .selection {
   display: flex;
   flex-wrap: wrap;
-  margin-top: 40px;
-  padding: 20px;
+  margin: 40px 0;
+  padding: 10px;
   justify-content: center;
 }
 
-.item {
-  background-color: #b0a99a;
-  box-shadow: 0 3px 0 #716958, inset 0 0 0 3px #908970;
-  border: 10px solid #d5cdb7;
-  border-radius: 4px;
-  height: 290px;
-  margin: 0 30px 20px 30px;
-  padding: 30px;
+.base-item {
+  box-sizing: content-box;
+  height: 220px;
+  padding: 20px;
   position: relative;
-  width: 220px;
+  width: 150px;
+}
+
+.arcana-item, .relic-item, .outfit-item {
+  align-items: center;
+  border-radius: 4px;
+  display: flex;
+  height: 100%;
+  justify-content: center;
+  padding: 20px;
+  width: 100%;
+}
+
+.arcana-item {
+  background-color: #b0a99a;
+  border: 10px solid #d5cdb7;
+  box-shadow: 0 3px 0 #716958, inset 0 0 0 3px #908970;
+}
+
+.relic-item, .outfit-item {
+  background-color: rgba(168, 153, 130, 0.2);
+  border: 10px solid rgba(168, 153, 130, 0.3);
 }
 
 .item-image-wrapper {
@@ -72,19 +89,19 @@ body {
   content: '';
   background-color: #a89983;
   border: 2px solid #53433b;
-  height: 130px;
+  height: 100px;
   position: absolute;
   transform: rotate(45deg);
-  width: 130px;
+  width: 100px;
 }
 
 .item-image-wrapper::after {
   content: '';
   background-color: #53433b;
-  height: 110px;
+  height: 80px;
   position: absolute;
   transform: rotate(45deg);
-  width: 110px;
+  width: 80px;
 }
 
 .signature.item {
@@ -108,8 +125,16 @@ body {
 }
 
 .item-image {
-  width: 95px;
+  width: 60px;
   z-index: 2;
+}
+
+.outfit-item .item-image {
+  width: 150px;
+}
+
+.relic-item .item-image {
+  width: 95px;
 }
 
 .btn {
@@ -118,6 +143,7 @@ body {
   cursor: pointer;
   font-family: inherit;
   font-size: 20px;
+  margin-bottom: 60px;
   padding: 10px 20px;
 }
 
