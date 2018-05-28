@@ -5,7 +5,7 @@ import getOutfit from './getOutfit';
 import mapToContent from '../helpers/mapToContent';
 import fromContent from '../helpers/fromContent';
 
-const ARCANAS = ['basic', 'dash', 'standard', 'signatures'];
+const ARCANAS = ['basic', 'dash', 'standard', 'signature'];
 const RELIC = ['relic'];
 const OUTFIT = ['outfit'];
 
